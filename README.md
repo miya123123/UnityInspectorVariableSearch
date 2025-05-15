@@ -17,7 +17,7 @@ UnityInspectorVariableSearchは、選択したGameObjectのInspector内の変数
 - 2022.3.5f1(macOS ARM64)
 
 # インストール方法
-1. [Unityパッケージ](https://github.com/miya123123/UnityInspectorVariableSearch/releases/download/unity/UnityInspectorVariableSearch.unitypackage)をダウンロードします。
+1. [Unityパッケージ](https://github.com/miya123123/UnityInspectorVariableSearch/releases/download/ver.1.0.0/UnityInspectorVariableSearch.unitypackage)をダウンロードします。
 2. Unityプロジェクトにインポートします。
 
 # 使い方
