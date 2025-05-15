@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>デモ動画</title>
+    <style>
+        /* 画面全体に動画を表示させるための簡単なスタイル (任意) */
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #000; /* 背景を黒に */
+        }
+        video {
+            max-width: 100%;
+            max-height: 100vh; /* ビューポートの高さに合わせる */
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <video controls src="DemoMovie.mp4">
+        お使いのブラウザはvideoタグに対応していません。動画を再生できません。
+    </video>
+</body>
+</html>

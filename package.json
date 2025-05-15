@@ -1,0 +1,13 @@
+{
+    "name": "com.miya123123.inspector-variable-search",
+    "version": "1.0.0",
+    "displayName": "Inspector Variable Search",
+    "description": "A Unity Editor tool to search and edit variables in GameObject components.",
+    "unity": "2022.3",
+    "author": {
+      "name": "miya123123",
+      "url": "https://github.com/miya123123"
+    },
+    "license": "MIT",
+    "keywords": ["unity", "editor", "inspector", "tool", "search"]
+  }
